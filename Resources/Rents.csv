@@ -1,0 +1,165 @@
+RegionName,State,Metro,CountyName,2010,2011,2012,2013,2014,2015,2016,2017,2018
+Miami,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1621,1665.6,1747,1837.7,1954.7,2032.6,2101.1,2023.3,2044.8
+Hialeah,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1415,1455.6,1478.1,1529.9,1595.4,1644.8,1712,1692.9,1699
+Boca Raton,FL,Miami-Fort Lauderdale-West Palm Beach,Palm Beach County,1904,1852.3,1803.8,1865.9,1998.9,2080.5,2167.5,2196.8,2185.7
+Fort Lauderdale,FL,Miami-Fort Lauderdale-West Palm Beach,Broward County,1410.5,1533.3,1617.7,1658.3,1696.2,1788.8,1894.8,1867.3,1849.3
+Boynton Beach,FL,Miami-Fort Lauderdale-West Palm Beach,Palm Beach County,1469,1518.4,1519.8,1556,1653,1683,1705,1743.2,1749.1
+Pembroke Pines,FL,Miami-Fort Lauderdale-West Palm Beach,Broward County,1154,1272.9,1338.1,1380.9,1413,1487.2,1562.7,1575.3,1600.2
+Hollywood,FL,Miami-Fort Lauderdale-West Palm Beach,Broward County,1322.5,1443.4,1511.3,1564.5,1598.8,1693,1766.6,1750.8,1740.3
+Miramar,FL,Miami-Fort Lauderdale-West Palm Beach,Broward County,1228.5,1329.8,1375.4,1422.8,1471.7,1543.3,1617.8,1633.1,1630
+Coral Springs,FL,Miami-Fort Lauderdale-West Palm Beach,Broward County,1203.5,1302.8,1345.7,1374,1387.8,1468.9,1556.1,1587,1586
+Miami Gardens,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1323,1378.4,1400,1436.8,1527.7,1569.8,1661,1654.8,1670.3
+Delray Beach,FL,Miami-Fort Lauderdale-West Palm Beach,Palm Beach County,1494.5,1523.4,1526.2,1575.8,1699.9,1749.8,1805.7,1814.8,1793.7
+West Palm Beach,FL,Miami-Fort Lauderdale-West Palm Beach,Palm Beach County,1359.5,1367.5,1383.3,1428.3,1503.1,1531.2,1549.9,1578,1574.2
+Pompano Beach,FL,Miami-Fort Lauderdale-West Palm Beach,Broward County,1327.5,1424.1,1485.5,1514.2,1562,1614.8,1692.1,1685.6,1682.5
+Davie,FL,Miami-Fort Lauderdale-West Palm Beach,Broward County,1245,1342.5,1402.3,1463.1,1489.9,1564.5,1650.2,1658.8,1665.5
+Plantation,FL,Miami-Fort Lauderdale-West Palm Beach,Broward County,1246.5,1352.2,1417.1,1471.3,1497.5,1586.8,1672.8,1681.1,1706
+Miami Beach,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1737,1883.9,2023.1,2148,2284.4,2389.6,2415.1,2317.8,2310.9
+Sunrise,FL,Miami-Fort Lauderdale-West Palm Beach,Broward County,1176,1248.9,1309.3,1337.7,1366.3,1427.1,1504.6,1547.2,1549.3
+Homestead,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1100.5,1211.7,1255.2,1289.2,1318.1,1373,1455.8,1467.5,1483.7
+Deerfield Beach,FL,Miami-Fort Lauderdale-West Palm Beach,Broward County,1274.5,1320.6,1375.8,1405,1468.1,1532.7,1595.2,1610.9,1614
+Kendall,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1620.5,1694.9,1751.5,1844.9,1909.5,1979.2,1998.8,1994.4,2003.5
+Lauderhill,FL,Miami-Fort Lauderdale-West Palm Beach,Broward County,1079.5,1178.5,1237,1270,1285.5,1347.2,1423.5,1451.9,1461.5
+Palm Beach Gardens,FL,Miami-Fort Lauderdale-West Palm Beach,Palm Beach County,1645.5,1608.2,1596.9,1665.6,1772.9,1853.7,1921.5,1905.2,1904.7
+Jupiter,FL,Miami-Fort Lauderdale-West Palm Beach,Palm Beach County,1899.5,1847.9,1744.8,1784.3,1941.3,2107.1,2196.7,2190.4,2133.6
+Weston,FL,Miami-Fort Lauderdale-West Palm Beach,Broward County,1328,1439.9,1490.1,1539.5,1587.6,1690.2,1787.8,1803.2,1812.8
+Fountainbleau,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1478.5,1506.1,1537.3,1593.9,1660.3,1721.7,1783.2,1795.3,1796.2
+Tamarac,FL,Miami-Fort Lauderdale-West Palm Beach,Broward County,1134.5,1179.7,1234.7,1258.8,1292.6,1354.8,1429.5,1460.6,1461.9
+Wellington,FL,Miami-Fort Lauderdale-West Palm Beach,Palm Beach County,2014,1884.6,1777.5,1871.3,2021.6,1996.3,2101.6,2133.3,2049.8
+North Miami,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1348.5,1407.1,1458.9,1543.4,1622.6,1692.3,1752.1,1708.5,1724.2
+Kendale Lakes,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1567.5,1601.8,1650.3,1720.3,1780.1,1833.4,1854.7,1857.9,1884.8
+Tamiami,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1615.5,1639.8,1694.4,1754.8,1776.5,1829.5,1884.2,1882.9,1888.8
+Coconut Creek,FL,Miami-Fort Lauderdale-West Palm Beach,Broward County,1052,1165.3,1234.8,1255.1,1289.3,1360.1,1424,1469.8,1489
+Margate,FL,Miami-Fort Lauderdale-West Palm Beach,Broward County,1042,1103.5,1168.6,1196.8,1224.5,1288.8,1358,1385.3,1393.1
+The Hammocks,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1372.5,1532.4,1616.3,1694.3,1756.5,1812.6,1853,1837.4,1835.8
+Doral,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1602.5,1644.9,1671.5,1749.6,1824.3,1888.9,1997.1,1989.2,2019.3
+Coral Gables,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1999.5,2029.8,2103.4,2247.2,2325.1,2371.5,2435.6,2373.8,2404.6
+Country Club,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1399.5,1415,1405.6,1448.8,1529.5,1582.5,1631.5,1639.2,1667.6
+Oakland Park,FL,Miami-Fort Lauderdale-West Palm Beach,Broward County,1062,1145.6,1215.4,1240.9,1272.1,1332.7,1412.3,1438.3,1450.9
+Cutler Bay,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1358.5,1452.4,1506.7,1574.3,1618.6,1674.9,1755.3,1763.6,1757.4
+North Lauderdale,FL,Miami-Fort Lauderdale-West Palm Beach,Broward County,1115.5,1196.7,1253.8,1284.8,1311.5,1360.8,1435.9,1475.9,1474.8
+North Miami Beach,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1451.5,1524.6,1581.6,1649.8,1733.1,1844.5,1918.3,1874.1,1869.1
+Kendall West,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1454.5,1509.2,1590.3,1645.6,1687.5,1732.3,1759.5,1779.1,1796.5
+Hallandale,FL,Miami-Fort Lauderdale-West Palm Beach,Broward County,1285.5,1415.5,1503.1,1564.8,1593.5,1689.8,1745.3,1725.8,1719.3
+Greenacres,FL,Miami-Fort Lauderdale-West Palm Beach,Palm Beach County,1207,1244.1,1291.6,1343.7,1405.6,1436.7,1468.8,1490,1486.7
+Aventura,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1575.5,1646,1743.4,1891.3,2007.3,2085.5,2148.3,2097.4,2108.7
+Lake Worth,FL,Miami-Fort Lauderdale-West Palm Beach,Palm Beach County,1155.5,1221.9,1259.1,1315.3,1415.9,1444.8,1484.3,1508.6,1488.5
+South Miami Heights,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1241,1341.1,1392.6,1441.5,1504.3,1526.8,1588.4,1620.2,1649
+Royal Palm Beach,FL,Miami-Fort Lauderdale-West Palm Beach,Palm Beach County,1335.5,1334.5,1352.4,1396.8,1465.1,1469.3,1508.3,1542.3,1542
+Cooper City,FL,Miami-Fort Lauderdale-West Palm Beach,Broward County,1299.5,1507.4,1609.8,1666.8,1676.3,1739.5,1851.4,1869,1865.8
+Golden Glades,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1313.5,1376.5,1420.8,1479.4,1537.2,1573.1,1661.7,1641.6,1660
+Riviera Beach,FL,Miami-Fort Lauderdale-West Palm Beach,Palm Beach County,1784,1777.9,1732.3,1778.8,1839.9,1893.2,1956,1946.8,1931
+Lauderdale Lakes,FL,Miami-Fort Lauderdale-West Palm Beach,Broward County,964,1031.6,1100.5,1119.9,1140.5,1196,1256.8,1290.7,1319.4
+Richmond West,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1282.5,1417.8,1528.8,1607.4,1628.9,1672.3,1734.5,1754.9,1816.1
+West Little River,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1418,1467.3,1492.8,1530.7,1606.5,1645.6,1707.8,1716.7,1726.3
+Westchester,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1521,1552.2,1584,1637.7,1714.7,1771.2,1861.1,1925.6,1919.9
+Dania Beach,FL,Miami-Fort Lauderdale-West Palm Beach,Broward County,1243,1347.4,1362.2,1406.6,1416.6,1504.1,1566.8,1578.2,1575.4
+Miami Lakes,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1596.5,1605.8,1623.2,1687.1,1761.8,1810.3,1893.1,1905.8,1920.2
+Parkland,FL,Miami-Fort Lauderdale-West Palm Beach,Broward County,1604.5,1820.1,1917.3,1967.2,1941.1,2061,2154.5,2131.9,2092.8
+Princeton,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1402.5,1397.6,1418.1,1481.4,1523,1588.4,1700.3,1718.5,1728.3
+University Park,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1624,1637.5,1675.8,1749.2,1816.2,1857.3,1888.6,1894.4,1908.3
+Village of Palmetto Bay,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1468.5,1559,1629.2,1735.3,1830,1882.8,1943.2,1906.1,1920.8
+Leisure City,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1151.5,1161,1197.5,1237.8,1261.6,1328,1428.7,1454.4,1502.9
+Coral Terrace,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1566,1644.9,1742.7,1795.3,1919.5,1969.3,2079.3,2065.6,2080.1
+The Crossings,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1412.5,1519.6,1595.1,1652.2,1709.8,1770.7,1801.1,1799.3,1832.3
+Hialeah Gardens,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1377.5,1363.4,1388.3,1441.8,1516.5,1573.3,1626.2,1622.5,1617.8
+Ives Estates,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1567,1554.4,1584.6,1668.6,1793,1864.3,1892,1737.1,1772.1
+Carol City,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1499.5,1548,1557.5,1600.5,1690.1,1751.3,1837.5,1818.7,1837.6
+Belle Glade,FL,Miami-Fort Lauderdale-West Palm Beach,Palm Beach County,1441,1386.2,1366.6,1418.8,1610,1592.8,1649.2,1648.2,1690.1
+Palm Springs,FL,Miami-Fort Lauderdale-West Palm Beach,Palm Beach County,1108,1158.3,1195.6,1234.6,1289.2,1315.5,1366.2,1378.9,1384.4
+Lake Worth Corridor,FL,Miami-Fort Lauderdale-West Palm Beach,Palm Beach County,1148.5,1234.5,1272.1,1341.3,1420.9,1462,1496.4,1527.4,1499.7
+Sunny Isles Beach,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,2030.5,2067.6,2182.2,2407.8,2563,2713.1,2749.5,2712.1,2622.3
+Pinecrest,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,2381,2262.6,2384.3,2505.2,2551.5,2648.7,2592.2,2561.2,2651.8
+Ojus,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1470,1507.3,1573.7,1681.4,1763.4,1828.6,1897,1831.4,1852
+Glenvar Heights,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1671.5,1676.2,1755.6,1836.1,1920.5,1989.3,2099.9,2071.3,2076.5
+Sunset,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1719,1733.3,1779.3,1859.8,1933.7,1996.3,2030.2,2022.4,2053.4
+Three Lakes,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1436.5,1544.2,1625.7,1706,1743.6,1780.7,1795.4,1802.3,1828.9
+Palmetto Estates,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1429,1591.4,1649.4,1741.3,1834.8,1909.7,1935.2,1897.7,1902.7
+Opa-locka,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1232,1305.6,1348.7,1378.3,1445.8,1509.9,1575.1,1571.3,1571.3
+Pinewood,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1393.5,1446.6,1466.8,1516.4,1598.8,1637.3,1733.8,1706.8,1699.7
+Olympia Heights,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1716.5,1843.5,1905.9,1993.8,2083.8,2107.8,2170.8,2100.7,2056.9
+Brownsville,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1349.5,1387,1361.9,1393.6,1483.1,1555.8,1670.8,1681.5,1671.9
+Miami Springs,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1561,1624.6,1644.1,1735.9,1798.3,1804,1903,1877.5,1824.3
+West Park,FL,Miami-Fort Lauderdale-West Palm Beach,Broward County,1155,1227,1256.9,1291.3,1324.6,1386.8,1437.1,1463.5,1484.8
+Westview,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1508.5,1502.6,1533.7,1578.4,1658.7,1705.5,1789.9,1781.1,1768.6
+North Palm Beach,FL,Miami-Fort Lauderdale-West Palm Beach,Palm Beach County,2245,2039.2,1912.1,1968.8,2114.7,2284.3,2460.7,2487.8,2413.7
+Southwest Ranches,FL,Miami-Fort Lauderdale-West Palm Beach,Broward County,1718,1969.4,2002.6,2159.8,2149.3,2266.3,2399.3,2329.6,2365.2
+Sweetwater,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1446,1502.6,1535.7,1582.3,1656.8,1719.7,1769.5,1754.8,1735.9
+Gladeview,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1441.5,1473.6,1466.5,1503.2,1588.5,1619.8,1726.3,1716.5,1697
+Florida City,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1110,1186.5,1218.1,1258.3,1329.8,1364.8,1454.8,1469.2,1487.8
+Key Biscayne,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,3396,3429.9,3525.1,3672.9,4016.5,4275.8,4232.3,3993.4,4479.6
+Miami Shores,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1685.5,1698.6,1747.2,1874,1995.5,2088.1,2174.2,2103.4,2149.4
+South Miami,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1546,1645.4,1716.1,1828.4,1953.1,2011,2098.8,2044.3,2034.7
+Westwood Lake,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1649.5,1695.8,1784.8,1860.8,1938.8,2026.2,2032.8,2028.5,2029.2
+Wilton Manors,FL,Miami-Fort Lauderdale-West Palm Beach,Broward County,1205.5,1312.4,1410.9,1423.2,1454.6,1534.6,1677.9,1666.5,1638.6
+Goulds,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1299.5,1356.5,1408.4,1460.4,1515.1,1568.8,1671.1,1672.6,1689.3
+Lighthouse Point,FL,Miami-Fort Lauderdale-West Palm Beach,Broward County,1586,1645.5,1666,1725,1819.8,1912.7,2025.7,2013.4,1945.8
+Country Walk,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1615,1689.9,1757.9,1835.3,1900.3,1948.9,2033.1,2041.3,2089.8
+Westgate-Belvedere Homes,FL,Miami-Fort Lauderdale-West Palm Beach,Palm Beach County,1057,1121.3,1175.6,1255.4,1327.5,1359.2,1406.4,1434.8,1420.3
+Lantana,FL,Miami-Fort Lauderdale-West Palm Beach,Palm Beach County,1340.5,1364.9,1384,1417.7,1524,1560.8,1581.3,1615,1607.6
+West Perrine,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1303,1363.8,1423.8,1483.3,1581.3,1614.9,1679.3,1676.3,1707.1
+Tequesta,FL,Miami-Fort Lauderdale-West Palm Beach,Palm Beach County,2092.5,1969.4,1924.3,2046.2,2139.8,2257,2310.7,2364,2397
+Naranja,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1210.5,1240.6,1272.5,1316.5,1354.7,1380.6,1460.1,1485.2,1520.1
+Richmond Heights,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1325.5,1419,1481.3,1540.2,1627,1707.5,1734.3,1748.6,1780.9
+Lake Park,FL,Miami-Fort Lauderdale-West Palm Beach,Palm Beach County,1366,1397.2,1389.3,1423.9,1498.7,1514,1552.1,1589.3,1579.3
+Palm Beach,FL,Miami-Fort Lauderdale-West Palm Beach,Palm Beach County,4892,4339.1,3932.7,4259.2,4488.8,5094.2,5505.8,5499.3,5706.1
+North Bay Village,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1446,1492,1571,1706.4,1800,1875.8,1964.6,1965.9,1957.9
+Pahokee,FL,Miami-Fort Lauderdale-West Palm Beach,Palm Beach County,1435.5,1476,1504.1,1541,1586,1553.2,1621.2,1581.8,1523.2
+Pembroke Park,FL,Miami-Fort Lauderdale-West Palm Beach,Broward County,1148.5,1244.1,1273.8,1294.4,1326,1376.8,1448.3,1452.7,1461.5
+Broadview Park,FL,Miami-Fort Lauderdale-West Palm Beach,Broward County,1171.5,1247.5,1297.3,1341.4,1369.9,1441,1551.7,1584.6,1577.8
+West Miami,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1805.5,1788.1,1844.9,1914,2015.3,2073,2061.9,1972.3,1970.4
+Lauderdale-by-the-Sea,FL,Miami-Fort Lauderdale-West Palm Beach,Broward County,1907,1940.9,2007.1,2065.9,2129.7,2259.3,2291.3,2343.8,2437.3
+Golden Lakes,FL,Miami-Fort Lauderdale-West Palm Beach,Palm Beach County,1001,1008.1,1047.9,1104.5,1161.2,1193.4,1270,1285.1,1332.5
+Century Village,FL,Miami-Fort Lauderdale-West Palm Beach,Palm Beach County,846.5,918.2,937.7,1002.8,1080,1175.3,1249,1273.4,1271.6
+Norland,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1262.5,1306.5,1353.5,1439.8,1547.5,1624.9,1668,1625.6,1643.3
+Surfside,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,2199,2184.6,2326.2,2517.8,2660.5,2795.3,2817.8,2751.2,2675.6
+Palm Springs North,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1686.5,1735,1728.2,1806.8,1889.6,1977.4,2056.7,2030.4,1940.3
+South Bay,FL,Miami-Fort Lauderdale-West Palm Beach,Palm Beach County,1477,1479.9,1453.5,1510.9,1590.5,1527.3,1601,1610.6,1621.9
+Bay Harbor Islands,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1902,1941.2,2046.2,2150.2,2287.5,2361.2,2409.6,2421.7,2448.6
+Juno Beach,FL,Miami-Fort Lauderdale-West Palm Beach,Palm Beach County,2718,2381.3,2166.6,2257.6,2421.7,2604.3,2774.5,2796.3,2708.3
+Cutler Ridge,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1202.5,1278.1,1338.3,1399.3,1445.6,1480.2,1567,1591,1580.5
+Royal Palm Estates,FL,Miami-Fort Lauderdale-West Palm Beach,Palm Beach County,1140,1220.5,1277.3,1366.4,1392.7,1385.3,1438.5,1465.4,1438.5
+Seminole Manor,FL,Miami-Fort Lauderdale-West Palm Beach,Palm Beach County,1311,1296.4,1320.8,1380.7,1454,1509.9,1528.4,1554,1544.6
+Hillsboro Ranches,FL,Miami-Fort Lauderdale-West Palm Beach,Broward County,1964.5,1968,1991.9,2050.7,2135.7,2290.8,2396.9,2399.6,2298
+Highland Beach,FL,Miami-Fort Lauderdale-West Palm Beach,Palm Beach County,3465,3075.1,2855.6,2951.7,3185.1,3359.8,3582.2,3729.8,3787.2
+Lake Clarke Shores,FL,Miami-Fort Lauderdale-West Palm Beach,Palm Beach County,1535.5,1542.8,1508.3,1480,1549.1,1555.3,1551.2,1593.9,1634.2
+Loxahatchee Groves,FL,Miami-Fort Lauderdale-West Palm Beach,Palm Beach County,2260.5,1930,1714.2,1818.1,2104.5,2213.5,2425.5,2356.8,2145.8
+Hypoluxo,FL,Miami-Fort Lauderdale-West Palm Beach,Palm Beach County,1374,1369.5,1347.8,1377.8,1479.5,1506.2,1526.8,1573.6,1654.3
+Biscayne Park,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1251.5,1367.9,1428.8,1524.3,1630.7,1703.7,1752.3,1673.6,1651.4
+Haverhill,FL,Miami-Fort Lauderdale-West Palm Beach,Palm Beach County,1487.5,1436,1412.8,1412.8,1481.1,1544.3,1570.9,1600.1,1619.3
+Bal Harbour,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,3410.5,3405.4,3709.2,3715.6,3905,3942.6,4112.4,3999.8,4402.5
+Roosevelt Gardens,FL,Miami-Fort Lauderdale-West Palm Beach,Broward County,1143.5,1275.9,1333.8,1362.5,1374.9,1423,1492,1511.7,1560.7
+Virginia Gardens,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1702,1700.8,1713.1,1785.7,1791.8,1832.8,1965.5,1946.5,1912.5
+El Portal,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1633.5,1636.4,1704.8,1784.5,1898.2,1942,2006.8,1995,2055.6
+Lakeside Green,FL,Miami-Fort Lauderdale-West Palm Beach,Palm Beach County,1089.5,1127.9,1129.2,1172.1,1230.5,1285.8,1387.6,1402.9,1440.8
+Atlantis,FL,Miami-Fort Lauderdale-West Palm Beach,Palm Beach County,1605.5,1587.9,1600.9,1653.3,1721.7,1765.1,1786.1,1816,1794.6
+Boulevard Gardens,FL,Miami-Fort Lauderdale-West Palm Beach,Broward County,1093,1177.9,1252.3,1281.6,1298.5,1365.6,1401.1,1408,1414.4
+Ocean Ridge,FL,Miami-Fort Lauderdale-West Palm Beach,Palm Beach County,4611,4231.3,4092,4373.5,4637.9,5003,5184.8,5309.5,5309
+Washington Park,FL,Miami-Fort Lauderdale-West Palm Beach,Broward County,1226.5,1401.3,1497.8,1516.5,1599.3,1658.8,1716.2,1709.5,1679.9
+Schall Circle,FL,Miami-Fort Lauderdale-West Palm Beach,Palm Beach County,1041.5,1110,1135.1,1187.5,1284.5,1323.1,1370.2,1395.1,1407.7
+Canal Point,FL,Miami-Fort Lauderdale-West Palm Beach,Palm Beach County,1555,1565.6,1482.9,1521.9,1640.3,1699.2,1699.6,1727.3,1656.3
+Hillsboro Beach,FL,Miami-Fort Lauderdale-West Palm Beach,Broward County,1780.5,1909.9,1904.3,1929.5,2093.5,2188.2,2217.2,2184.5,2283.3
+Mangonia Park,FL,Miami-Fort Lauderdale-West Palm Beach,Palm Beach County,1012.5,1106.1,1076.4,1191,1302,1297.4,1325.1,1378.8,1414
+Homestead Base,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1282.5,1307.5,1370.2,1427.2,1475.6,1521.7,1574.4,1582.1,1626.3
+Plantation Mobile Home Park,FL,Miami-Fort Lauderdale-West Palm Beach,Palm Beach County,1080,1164.1,1167.8,1204.5,1242,1263.3,1336.8,1355.3,1352.7
+Medley,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1425.5,1412.1,1421.6,1618.8,1741.5,1803.2,1818.8,1757.3,1672.3
+Gulf Stream,FL,Miami-Fort Lauderdale-West Palm Beach,Palm Beach County,13255.5,12160.9,11383.6,11453.6,11536.8,12713.8,13515.8,12571.9,11694.7
+Cypress Lakes,FL,Miami-Fort Lauderdale-West Palm Beach,Palm Beach County,1202,1174.3,1189.5,1218.5,1282.1,1309.5,1366.1,1388.8,1413.6
+Sea Ranch Lakes,FL,Miami-Fort Lauderdale-West Palm Beach,Broward County,1322.5,1445.9,1669.3,1609.3,1741.6,1780.6,1884.4,1833.3,1950.8
+Golf,FL,Miami-Fort Lauderdale-West Palm Beach,Palm Beach County,3579,3488.7,3439.3,3613.2,3647.8,3899.8,4072.8,4279.6,4664.6
+Palm Beach Shores,FL,Miami-Fort Lauderdale-West Palm Beach,Palm Beach County,2696.5,2357.7,2049.3,2178.3,2604.8,2732.9,2972.2,2961.6,2854.8
+Limestone Creek,FL,Miami-Fort Lauderdale-West Palm Beach,Palm Beach County,1694.5,1659.9,1619.7,1656.3,1806.6,1915.9,2021,2027.9,1991.4
+Juno Ridge,FL,Miami-Fort Lauderdale-West Palm Beach,Palm Beach County,1377,1444,1506.1,1551,1607.2,1638.8,1661.2,1696.1,1631.4
+South Palm Beach,FL,Miami-Fort Lauderdale-West Palm Beach,Palm Beach County,2302.5,2055.6,1859.3,1989.1,2195.9,2386,2453.3,2597.6,2406.7
+Manalapan,FL,Miami-Fort Lauderdale-West Palm Beach,Palm Beach County,3935.5,3790.4,3458.8,3629.5,3771.3,4059.5,4356.1,4106.1,3941.2
+Franklin Park,FL,Miami-Fort Lauderdale-West Palm Beach,Broward County,1177,1292.6,1308.5,1353.8,1386.2,1449.6,1483.1,1516.9,1539.8
+Glen Ridge,FL,Miami-Fort Lauderdale-West Palm Beach,Palm Beach County,2160.5,2053.2,1987.8,2081,2238.1,2321.3,2407.5,2358.2,2357.7
+Stacey Street,FL,Miami-Fort Lauderdale-West Palm Beach,Palm Beach County,1542,1479.3,1446.3,1446.3,1446.4,1450.3,1473.3,1479.4,1494.1
+Golden Beach,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,6363,6495.3,7604.8,8607.3,8442.5,9447.9,10490,5062.3,4525.3
+Indian Creek,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,34323,29764.2,27433.9,24428.9,20103.9,15655.4,15742.6,15300.6,15038
+Jupiter Inlet Colony,FL,Miami-Fort Lauderdale-West Palm Beach,Palm Beach County,4588.5,3720.9,3363.5,3282,3620.9,4050.3,4788.4,4896.8,4940.8
+Briny Breezes,FL,Miami-Fort Lauderdale-West Palm Beach,Palm Beach County,1189.5,1243.4,1233.3,1288.7,1468.3,1528.6,1584.3,1628.6,1656.3
+Fisher Island,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,3150,3058.7,3035.4,2862.5,2967.8,3418.4,3482.8,3340.3,3411.8
+Cloud Lake,FL,Miami-Fort Lauderdale-West Palm Beach,Palm Beach County,1403,1455.9,1446.7,1503.6,1670.8,1668.1,1740.6,1702.6,1629.8
+Lazy Lake,FL,Miami-Fort Lauderdale-West Palm Beach,Broward County,3062,2794.8,2977.3,2890.5,3002,3247.3,1689.4,1692,1680.1
+TOTAL ,,Miami-Fort Lauderdale-West Palm Beach,,1907,1893.7,1903.9,1954.5,2011.8,2073.3,2150.7,2107.9,2106
